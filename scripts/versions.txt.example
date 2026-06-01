@@ -1,0 +1,8 @@
+# One kernel version per line.
+# Copy to scripts/versions.txt and edit as needed.
+
+5.0
+5.1
+5.4
+5.10
+5.11.3
